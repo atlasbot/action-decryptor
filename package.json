@@ -1,0 +1,15 @@
+{
+  "name": "action-decryptor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ryan <ryan@sylver.me>",
+  "license": "MIT",
+  "private": false,
+  "bin": {
+    "action-decryptor": "cli.js"
+  },
+  "dependencies": {
+    "meow": "^5.0.0",
+    "recursive-readdir": "^2.2.2"
+  }
+}
